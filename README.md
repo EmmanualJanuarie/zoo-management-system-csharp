@@ -79,7 +79,3 @@ We're committed to enhancing the Urban Safari Zoo Management System. Here are so
 - **Name**: Emmanual Januarie
 - **Role**: Application Developer (Software Developer)
 - **Institution**: CTU Training Solutions
-- **Student Number**: 20230432
-- **Company Application Created for**: Urban Safari
-
-Thank you for using the Urban Safari Zoo Management System! 🦁🌿 Feel free to explore and enjoy the virtual zoo experience! 🐾
